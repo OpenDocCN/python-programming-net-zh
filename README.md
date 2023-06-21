@@ -8,7 +8,7 @@
 
 > 自豪地采用[谷歌翻译](https://translate.google.cn/)
 
-+   [在线阅读](http://pypn.apachecn.org)
++   [在线阅读](http://pypn.flygon.net)
 ## 下载
 
 ### Docker
